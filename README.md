@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on CXL and Computer Architesture
+- 🔭 I’m currently working on CXL and Computer Architecture
 - Student at NTHU
 
 
